@@ -285,11 +285,12 @@ ORDER BY
 
 Connect with fellow cloud enthusiasts, ask questions, and share your learning journey.  
 
-[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8QRi6f0wMU0DChAFD9D4UA)  
-[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/YOUR_WHATSAPP_CHANNEL_LINK)  
-[![WhatsApp Help Community](https://img.shields.io/badge/WhatsApp_Help_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/YOUR_HELP_COMMUNITY_LINK)  
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_CHANNEL_LINK)  
-[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gKAHbmvp)  
+[![YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechSatya25)  
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaJ3kVcDeONEiT2Fzr0f)  
+[![WhatsApp Help Community](https://img.shields.io/badge/WhatsApp_Help_Community-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HCikLc9QPKG5YQZzWxuN7R)  
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SatyaGCP25)  
+[![Connect Me On LinkedIn](https://img.shields.io/badge/Connect%20Me%20On%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyanand-gupta-836106282/)
+
 
 
 
